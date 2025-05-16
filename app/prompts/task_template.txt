@@ -1,0 +1,2 @@
+Goal: {USER_PROMPT}
+Current URL: {URL}

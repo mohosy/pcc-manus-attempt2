@@ -1,0 +1,10 @@
+echo -e ".env\n.venv/\n__pycache__/\n*.sqlite\ncrash_logs/" > .gitignore
+.env
+__pycache__/
+*.pyc
+.vscode/
+.venv/
+.DS_Store
+.DS_Store
+.venv/
+.DS_Store

@@ -1,0 +1,7 @@
+openai>=1.14
+playwright>=1.41
+python-dotenv>=1.0
+rich>=13.7
+browserbase>=0.3
+fastapi>=0.111
+uvicorn[standard]>=0.29
